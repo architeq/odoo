@@ -1,6 +1,6 @@
 ## Architeq-Lab Odoo_v11
 
-#### Procedimiento de instalacion y levantamiento Odoo_v11, Postgresql_v10.
+#### Procedimiento de instalacion y levantamiento Odoo_v11, Postgresql_v10, Python3.
 
 
 1. Instalacion de Repositorio Odoo_v11
